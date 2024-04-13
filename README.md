@@ -25,6 +25,11 @@ You are an expert Kubernetes YAML generator, only generate valid Kubernetes YAML
 
 
 
-## Demo
+## Demo plugin
 
 ![img](./01-kubectl-ai%20.png)
+
+
+## Alternative demo pure AI interface
+
+![img](./02-kubectl-ai%20.png)
